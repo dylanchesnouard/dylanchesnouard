@@ -17,9 +17,8 @@
 ### Style
 
 [![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-<!---
 [![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)](https://sass-lang.com/)
---->
+
 <!---
 ### Test
 
